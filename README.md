@@ -1,5 +1,3 @@
-# Phila-Orchestra-proj
-
 #Statement of Work
 
 #Project Overview
